@@ -1,0 +1,18 @@
+body{
+background-image: url("code.jpg");
+color: powderblue;
+}
+
+h1{
+  color: cyan;
+}
+
+
+hr {
+  color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: inherit;
+  border-width: 6px;
+  width: 10%;
+}
