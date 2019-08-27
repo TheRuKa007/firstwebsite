@@ -16,3 +16,8 @@ hr {
   border-width: 6px;
   width: 8%;
 }
+
+.bg hover {
+background-color:red ;
+
+}
